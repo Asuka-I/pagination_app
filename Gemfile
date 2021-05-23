@@ -21,6 +21,8 @@ group :development, :test do
   gem 'faker', require: false
 
   gem 'kaminari'
+
+  gem 'pry-byebug'
 end
 
 group :development do
