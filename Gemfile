@@ -19,6 +19,8 @@ group :development, :test do
   gem 'byebug', platforms: [:mri, :mingw, :x64_mingw]
 
   gem 'faker', require: false
+
+  gem 'kaminari'
 end
 
 group :development do
